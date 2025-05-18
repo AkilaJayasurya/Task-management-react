@@ -7,7 +7,7 @@ A clean and responsive task manager built with React + Vite, styled using Tailwi
 
 
 
-## ✅ Features
+## 📦Features
 
 - ✅ Create and edit tasks  
 - ✅ Mark tasks as Pending or Done  
@@ -62,7 +62,7 @@ task-manager/
 
 
 
-🚀 Getting Started:
+##🚀 Getting Started:
 
 1. Clone the repo:
    https://github.com/AkilaJayasurya/Task-management-react.git
