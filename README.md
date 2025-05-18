@@ -7,26 +7,26 @@ A clean and responsive task manager built with React + Vite, styled using Tailwi
 
 
 
-📦 Features:
+## ✅ Features
 
-✅ Create and edit tasks
-✅ Mark tasks as Pending or Done
-✅ Filter tasks by status: Pending, Done, Overdue
-✅ Search by title or description
-✅ Paginated task list (5 per page)
-✅ LocalStorage persistence
-✅ Toast notifications for success/error
-✅ Fully responsive design (mobile-friendly)
+- ✅ Create and edit tasks  
+- ✅ Mark tasks as Pending or Done  
+- ✅ Filter tasks by status: Pending, Done, Overdue  
+- ✅ Search by title or description  
+- ✅ Paginated task list (5 per page)  
+- ✅ LocalStorage persistence  
+- ✅ Toast notifications for success/error  
+- ✅ Fully responsive design (mobile-friendly)  
 
 
-🛠 Tech Stack:
 
-⚛️ React (with Vite)
-🎨 Tailwind CSS
-🔄 React Router
-🔔 React Toastify
-💾 LocalStorage
+## 🛠️ Tech Stack
 
+- ⚛️ React (with Vite)  
+- 💨 Tailwind CSS  
+- 🧭 React Router  
+- 🔔 React Toastify  
+- 💾 LocalStorage 
 
 📂 Project Structure :
 
