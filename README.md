@@ -75,4 +75,3 @@ task-manager/
 3. Run the app locally:
    npm run dev
 
-
