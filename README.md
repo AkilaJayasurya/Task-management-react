@@ -31,6 +31,7 @@ A clean and responsive task manager built with React + Vite, styled using Tailwi
 📂 Project Structure :
 
 
+```bash
 task-manager/
 ├── public/
 │   └── index.html
@@ -40,27 +41,24 @@ task-manager/
 │   │   ├── SearchBar.jsx
 │   │   ├── TaskForm.jsx
 │   │   └── TaskTable.jsx
-│   │
 │   ├── hooks/
 │   │   └── useForm.js 
-│   │
 │   ├── pages/
 │   │   ├── CreateTask.jsx
 │   │   ├── EditTask.jsx
 │   │   └── Home.jsx
-│   │
 │   ├── utils/
 │   │   └── localStorage.js
-│   │
 │   ├── App.jsx
 │   ├── main.jsx
-│   ├── index.css           # or app.css
-│   └── tailwind.config.js  # (generated in root, but belongs logically to project)
-│
+│   ├── index.css
+│   └── tailwind.config.js
 ├── postcss.config.js
 ├── tailwind.config.js
 ├── package.json
 └── vite.config.js
+```
+
 
 
 🚀 Getting Started:
